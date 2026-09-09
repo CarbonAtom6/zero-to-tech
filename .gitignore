@@ -21,3 +21,4 @@ dist/
 backup/.venv/
 backup/__pycache__/
 *.pyc
+backup/*.db
